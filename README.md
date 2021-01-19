@@ -1,1 +1,2 @@
-# paperBall1.0
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
